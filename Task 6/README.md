@@ -39,9 +39,9 @@ As Many Graph were there I am Only inclusing some graphs others we can refer it 
 <h3>Approach 1 Models Performance Comparision</h3>
 <img src="https://github.com/venkataraghuramr/Kaiburr-Assessment/blob/main/Task%206/Results/Approach%201%20models.jpg" width="643" height="813">
 <br>
-<img src="https://github.com/venkataraghuramr/Kaiburr-Assessment/blob/main/Task%206/Results/Approach%201%20Best%20Classiers%20HistPlot.png" width="300" height="300">
+<img src="https://github.com/venkataraghuramr/Kaiburr-Assessment/blob/main/Task%206/Results/Approach%201%20Best%20Classiers%20HistPlot.png" width="374" height="707">
 <br>
-<img src="https://github.com/venkataraghuramr/Kaiburr-Assessment/blob/main/Task%206/Results/Best%20Classifiers%20PR%20Comparision.png" width="300" height="300">
+<img src="https://github.com/venkataraghuramr/Kaiburr-Assessment/blob/main/Task%206/Results/Best%20Classifiers%20PR%20Comparision.png" width="391" height="964">
 <br>
 <h3>Comparision of Performance of All Models</h3>
 <img src="https://github.com/venkataraghuramr/Kaiburr-Assessment/blob/main/Task%206/Results/ALL%20models%20mix.jpg" width="300" height="300">
