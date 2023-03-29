@@ -47,7 +47,7 @@ As Many Graph were there I am Only inclusing some graphs others we can refer it 
 <img src="https://github.com/venkataraghuramr/Kaiburr-Assessment/blob/main/Task%206/Results/ALL%20models%20mix.jpg" width="436" height="356">
 <h3>Best Models Perfromance Comparison</h3>
 <br>
-<img src="https://github.com/venkataraghuramr/Kaiburr-Assessment/blob/main/Task%206/Results/bestmodelsoverall3approahes.jpg" width="800" height="171">
+<img src="https://github.com/venkataraghuramr/Kaiburr-Assessment/blob/main/Task%206/Results/bestmodelsoverall3approahes.jpg" width="800" height="200">
 <br>
 <img src="https://github.com/venkataraghuramr/Kaiburr-Assessment/blob/main/Task%206/Results/Final%20Comparision%20of%20all%20Models.png" width="1711" height="383">
 <br>
