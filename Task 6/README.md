@@ -23,14 +23,3 @@ Given the class imbalance ratio, we recommend measuring the accuracy using the A
 
 # System Design
 
-1. Importing DataSet
-
-2. Exploration of Dataset
-
-3. Pre-Processing Of Data
-
-4. Feature Selection
-
-5. Training and Testing Data for Lstm
-
-6. Prediction
