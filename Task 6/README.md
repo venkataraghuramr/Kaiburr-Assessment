@@ -57,3 +57,16 @@ As Many Graph were there I am Only inclusing some graphs others we can refer it 
 <p>
  <h5>Based on the Average Precision, Recall Score XG Boost has the highest score hence can be considered as the best model of al the other models</h5>
 </p>
+
+## How to Run
+
+
+1. get the code from the repository
+```
+https://github.com/venkataraghuramr/Kaiburr-Assessment.git
+```
+2. [download the dataset](https://www.kaggle.com/mlg-ulb/creditcardfraud) that will be used to train the model 
+
+3. install required python packages if previously not installed
+
+4. Finally run on Jupyter Notebook 
