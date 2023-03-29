@@ -30,14 +30,14 @@ Given the class imbalance ratio, we recommend measuring the accuracy using the A
 As Many Graph were there I am Only inclusing some graphs others we can refer it in the Results Directory EDA Folder
 </p>
 <h3>Relationship Between Time and Transactions</h3>
-<img src="https://github.com/venkataraghuramr/Kaiburr-Assessment/blob/main/Task%206/Results/Relationship%20Between%20Time%20and%20Transactions.png" width="300" height="300">
+<img src="https://github.com/venkataraghuramr/Kaiburr-Assessment/blob/main/Task%206/Results/Relationship%20Between%20Time%20and%20Transactions.png" width="430" height="469">
 <h3>Correlation Matrix for the Dataset:</h3>
-<img src="https://github.com/venkataraghuramr/Kaiburr-Assessment/blob/main/Task%206/Results/Correlation%20Matrix.png" width="300" height="300">
+<img src="https://github.com/venkataraghuramr/Kaiburr-Assessment/blob/main/Task%206/Results/Correlation%20Matrix.png" width="457" height="309">
 
 # Results
 <p>I am including the best Features of Approach 1 and Final Models Comparisions as including all the models performance will make this clumsy</p>
 <h3>Approach 1 Models Performance Comparision</h3>
-<img src="https://github.com/venkataraghuramr/Kaiburr-Assessment/blob/main/Task%206/Results/Approach%201%20models.jpg" width="300" height="300">
+<img src="https://github.com/venkataraghuramr/Kaiburr-Assessment/blob/main/Task%206/Results/Approach%201%20models.jpg" width="643" height="813">
 <br>
 <img src="https://github.com/venkataraghuramr/Kaiburr-Assessment/blob/main/Task%206/Results/Approach%201%20Best%20Classiers%20HistPlot.png" width="300" height="300">
 <br>
