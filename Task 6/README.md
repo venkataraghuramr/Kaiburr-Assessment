@@ -24,3 +24,36 @@ Given the class imbalance ratio, we recommend measuring the accuracy using the A
 # System Design
 
 <img src="https://github.com/venkataraghuramr/Kaiburr-Assessment/blob/main/Task%206/Results/Process%20Flow.png" width="900" height="1000">
+
+# EDA
+<p>
+As Many Graph were there I am Only inclusing some graphs others we can refer it in the Results Directory EDA Folder
+</p>
+<h3>Relationship Between Time and Transactions</h3>
+<img src="https://github.com/venkataraghuramr/Kaiburr-Assessment/blob/main/Task%206/Results/Relationship%20Between%20Time%20and%20Transactions.png" width="300" height="300">
+<h3>Correlation Matrix for the Dataset:</h3>
+<img src="https://github.com/venkataraghuramr/Kaiburr-Assessment/blob/main/Task%206/Results/Correlation%20Matrix.png" width="300" height="300">
+
+# Results
+<p>I am including the best Features of Approach 1 and Final Models Comparisions as including all the models performance will make this clumsy</p>
+<h3>Approach 1 Models Performance Comparision</h3>
+<img src="https://github.com/venkataraghuramr/Kaiburr-Assessment/blob/main/Task%206/Results/Approach%201%20models.jpg" width="300" height="300">
+<br>
+<img src="https://github.com/venkataraghuramr/Kaiburr-Assessment/blob/main/Task%206/Results/Approach%201%20Best%20Classiers%20HistPlot.png" width="300" height="300">
+<br>
+<img src="https://github.com/venkataraghuramr/Kaiburr-Assessment/blob/main/Task%206/Results/Best%20Classifiers%20PR%20Comparision.png" width="300" height="300">
+<br>
+<h3>Comparision of Performance of All Models</h3>
+<img src="https://github.com/venkataraghuramr/Kaiburr-Assessment/blob/main/Task%206/Results/ALL%20models%20mix.jpg" width="300" height="300">
+<h3>Best Models Perfromance Comparison</h3>
+<br>
+<img src="https://github.com/venkataraghuramr/Kaiburr-Assessment/blob/main/Task%206/Results/bestmodelsoverall3approahes.jpg" width="300" height="300">
+<br>
+<img src="https://github.com/venkataraghuramr/Kaiburr-Assessment/blob/main/Task%206/Results/Final%20Comparision%20of%20all%20Models.png" width="300" height="300">
+<br>
+
+# Conclusion
+
+<p>
+ <h5>Based on the Average Precision, Recall Score XG Boost has the highest score hence can be considered as the best model of al the other models</h5>
+</p>
