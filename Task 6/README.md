@@ -39,17 +39,17 @@ As Many Graph were there I am Only inclusing some graphs others we can refer it 
 <h3>Approach 1 Models Performance Comparision</h3>
 <img src="https://github.com/venkataraghuramr/Kaiburr-Assessment/blob/main/Task%206/Results/Approach%201%20models.jpg" width="643" height="813">
 <br>
-<img src="https://github.com/venkataraghuramr/Kaiburr-Assessment/blob/main/Task%206/Results/Approach%201%20Best%20Classiers%20HistPlot.png" width="374" height="707">
+<img src="https://github.com/venkataraghuramr/Kaiburr-Assessment/blob/main/Task%206/Results/Approach%201%20Best%20Classiers%20HistPlot.png" width="707" height="374">
 <br>
-<img src="https://github.com/venkataraghuramr/Kaiburr-Assessment/blob/main/Task%206/Results/Best%20Classifiers%20PR%20Comparision.png" width="391" height="964">
+<img src="https://github.com/venkataraghuramr/Kaiburr-Assessment/blob/main/Task%206/Results/Best%20Classifiers%20PR%20Comparision.png" width="964" height="391">
 <br>
 <h3>Comparision of Performance of All Models</h3>
-<img src="https://github.com/venkataraghuramr/Kaiburr-Assessment/blob/main/Task%206/Results/ALL%20models%20mix.jpg" width="300" height="300">
+<img src="https://github.com/venkataraghuramr/Kaiburr-Assessment/blob/main/Task%206/Results/ALL%20models%20mix.jpg" width="436" height="356">
 <h3>Best Models Perfromance Comparison</h3>
 <br>
-<img src="https://github.com/venkataraghuramr/Kaiburr-Assessment/blob/main/Task%206/Results/bestmodelsoverall3approahes.jpg" width="300" height="300">
+<img src="https://github.com/venkataraghuramr/Kaiburr-Assessment/blob/main/Task%206/Results/bestmodelsoverall3approahes.jpg" width="818" height="177">
 <br>
-<img src="https://github.com/venkataraghuramr/Kaiburr-Assessment/blob/main/Task%206/Results/Final%20Comparision%20of%20all%20Models.png" width="300" height="300">
+<img src="https://github.com/venkataraghuramr/Kaiburr-Assessment/blob/main/Task%206/Results/Final%20Comparision%20of%20all%20Models.png" width="1711" height="383">
 <br>
 
 # Conclusion
