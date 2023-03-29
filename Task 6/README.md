@@ -61,7 +61,7 @@ As Many Graph were there I am Only inclusing some graphs others we can refer it 
 <br>
 <br>
 <br>
-## How to Run
+# How to Run
 
 
 1. get the code from the repository
