@@ -23,4 +23,4 @@ Given the class imbalance ratio, we recommend measuring the accuracy using the A
 
 # System Design
 
-<img src="https://github.com/venkataraghuramr/Kaiburr-Assessment/blob/main/Task%206/Results/Process%20Flow.png" width="400" height="250">
+<img src="https://github.com/venkataraghuramr/Kaiburr-Assessment/blob/main/Task%206/Results/Process%20Flow.png" width="1111" height="1525">
